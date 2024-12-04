@@ -1,1 +1,2 @@
-# github-connector
+# GitHub
+A Sesam connector for GitHub
